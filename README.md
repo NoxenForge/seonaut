@@ -97,6 +97,10 @@ To run SEOnaut from source code, follow these steps to run it using Docker:
 
 For more detailed installation and configuration instructions, refer to the [INSTALL.md](docs/INSTALL.md) file.
 
+## 项目文档
+
+见 [文档目录](docs/README.md)，包含容器开发指南、尖叫蛙能力差距，以及运行架构与 2 核 2GB 容量建议。
+
 ## Contributing
 
 Please see [CONTRIBUTING](docs/CONTRIBUTING.md) for details.
